@@ -1,0 +1,37 @@
+[
+    {
+    "id":"1234",
+    "freelancerName":"Aprajita Bajpai",
+    "freelancerEmail":"aprajita@gmail.com",
+    "freelancerAddress":"14131 corbit st",
+    "yearsOfExpertise":"6",
+    "skills":["java","angular","reactjs","PHP"]
+    
+    },
+    {
+    "id":"12345",
+    "freelancerName":"Nick Jonas",
+    "freelancerEmail":"nick@gmail.com",
+    "freelancerAddress":"15231 corbit st",
+    "yearsOfExpertise":"8",
+    "skills":["SAP","HCM"]
+    },
+    {
+    "id":"1235",
+    "freelancerName":"Jhung Wang",
+    "freelancerEmail":"jhwang@gmail.com",
+    "freelancerAddress":"1116 corbit st",
+    "yearsOfExpertise":"3",
+    "skills":["java","angular"]
+    
+    },
+    {
+    "id":"12357",
+    "freelancerName":"John Mark",
+    "freelancerEmail":"mark@gmail.com",
+    "freelancerAddress":"1116 corbit st",
+    "yearsOfExpertise":"3",
+    "skills":["SQL","nodejs","golang"]
+        
+    }
+]

@@ -1,0 +1,64 @@
+.form-horizontal{
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #012f43;
+    margin-top: 20px;
+}
+/* img{
+    height:100px;
+    width: 100px;
+} */
+.container{
+    margin-left: 22%;
+
+}
+::ng-deep .mat-step-header .mat-step-icon-selected {
+    background-color:#015B70; 
+ }
+
+ .form-container {
+     justify-content: center;
+ }
+ .form-inline{
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #012f43;
+    margin-top: 20px; 
+ }
+ .mat-raised-button.mat-primary{
+    margin:4px;
+}
+.mat-raised-button.mat-accent{
+   margin:4px;
+
+}
+ .fab{
+     height: 20px;
+     width:20px ;
+ }
+
+ .skill-container {
+     display: flex;
+
+ }
+
+ .skill-container input {
+   margin-right: 1em;
+    
+}
+.mat-horizontal-stepper-header-container {
+    display: inline-flex;
+    align-items: center;
+}
+.btn-margin{
+    margin: 5px;
+}
+.mat-button{
+margin-left: 37%;
+margin-top:22px;
+}
+.btn[_ngcontent-c6] {
+    margin: 8px;
+}

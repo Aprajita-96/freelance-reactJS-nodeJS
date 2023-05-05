@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.register{
+  padding-left: 448px;
+  padding-right: 448px;
+  margin-top: 50px;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.card-holder {
+  margin: 10px;
+  box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.55);
+}
+
+.form-control {
+  position: initial!important;
+}
+p{
+  font-size:17px;
+}
+
+.TopProjects{
+  font-family: 'Roboto';
+  color: dimgray;
+  text-align: center;
+font-size: 48px; 
+font-weight: lighter;  
+text-decoration: none;
+
+}
+
+h6{
+  text-align: center;
+  font-size: 24px; 
+}
+/* .card button:hover {
+  opacity: 1;
+} */

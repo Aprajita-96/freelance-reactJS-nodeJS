@@ -1,0 +1,185 @@
+[
+    {
+    "projectOwnerEmailId":"aprajitaPO@gmail.com",
+    "projectOwnerName":"Michelle Kon",
+    "projectDetailsList":[
+    {
+    "projectId":"1234567",
+    "projectOwnerEmailId":"aprajitaPO@gmail.com",
+    "projectName":"Building a AI language",
+    "projectStatus":"close",
+    "allBidsOfFreelancers":[
+    {
+    "freelancerEmailId":"Nick Jones",
+    "proposedCompletionDate":"10th April 2023",
+    "bidAmount":"$400",
+    "projectAwarded":"false"
+    },
+    {
+    "freelancerEmailId":"Jonny Gaddar",
+    "proposedCompletionDate":"15th April 2023",
+    "bidAmount":"$600",
+    "projectAwarded":"false"
+    },
+    {
+    "freelancerEmailId":"Aprajita",
+    "proposedCompletionDate":"10th April 2023",
+    "bidAmount":"$300",
+    "projectAwarded":"true"
+    },
+    {
+    "freelancerEmailId":"Mick Laurance",
+    "proposedCompletionDate":"19th April 2023",
+    "bidAmount":"$700",
+    "projectAwarded":"false"
+    }
+    ],
+    "projectCompletionDate":"4th April 2023",
+    "projectPreference":"remote",
+    "projectLocation":"MI",
+    "projectDescription":"The goal of this project is to create an AI language that is capable of understanding and generating human-like language. The AI language will be developed using machine learning techniques, natural language processing, and deep learning algorithms.The AI language will be designed to learn from a large dataset of human language, including written text, spoken words, and other forms of communication. The dataset will be processed and analyzed to identify patterns and structures in language, such as grammar rules, sentence structure, and common phrases.The AI language will be trained on this data using neural networks, which will enable it to recognize patterns and generate language that is similar to human language. The AI language will be capable of understanding and responding to questions, generating original content, and even mimicking the style of specific authors or genres.The AI language will be evaluated based on its ability to generate coherent and grammatically correct sentences, as well as its ability to understand and respond to user input in a meaningful way. The project will also explore the ethical implications of creating an AI language, such as the potential for bias or misuse.",
+    "bidSpecsProvidedByProjectOwners":[
+    {
+    "maximumBudget":"$500",
+    "minimumBudget":"$100",
+    "bidLastDate":"20th April 2023"
+    }
+    ],
+    "skillsSetList":["Java","Angular","DynamoDB","AWS"]
+    },
+    {
+    "projectId":"3456668",
+    "projectOwnerEmailId":"gk@gmail.com",
+    "projectName":"Web App for AI dev",
+    "projectStatus":"open",
+    "allBidsOfFreelancers":[
+    {
+    "freelancerEmailId":"Nick Jones",
+    "proposedCompletionDate":"10th April 2023",
+    "bidAmount":"$400",
+    "projectAwarded":"false"
+    },
+    {
+    "freelancerEmailId":"Jonny Gaddar",
+    "proposedCompletionDate":"15th April 2023",
+    "bidAmount":"$600",
+    "projectAwarded":"false"
+    },
+    {
+    "freelancerEmailId":"Aprajita",
+    "proposedCompletionDate":"10th April 2023",
+    "bidAmount":"$300",
+    "projectAwarded":"true"
+    },
+    {
+    "freelancerEmailId":"Mick Laurance",
+    "proposedCompletionDate":"19th April 2023",
+    "bidAmount":"$700",
+    "projectAwarded":"false"
+    }
+    ],
+    "projectCompletionDate":"6th April 2023",
+    "projectPreference":"onsite",
+    "projectLocation":"MO",
+    "projectDescription":"The goal of this project is to develop a web application that serves as a collaborative platform for artificial intelligence (AI) developers. The web application will provide AI developers with a user-friendly interface to collaborate on AI projects, share code, and exchange ideas.The web application will be designed with modern web technologies and will include features such as a dashboard to manage AI projects, a code editor to write and test code, a chat feature to communicate with other developers, and a version control system to manage changes to code.The web application will also integrate with various AI frameworks and libraries such as TensorFlow, PyTorch, and Keras. This will enable developers to easily integrate AI algorithms and models into their projects.Additionally, the web application will include a machine learning model marketplace where developers can share and access pre-trained models. This will enable developers to accelerate the development of their AI applications by leveraging pre-trained models for common tasks.",
+    "bidSpecsProvidedByProjectOwners":[
+    {
+    "maximumBudget":"$700",
+    "minimumBudget":"$150",
+    "bidLastDate":"18th April 2023"
+    }
+    ],
+    "skillsSetList":["PHP","ReactJS","Mongo","Azure"]
+    },
+    {
+    "projectId":"900066778",
+    "projectOwnerEmailId":"lku@gmail.com",
+    "projectName":"Evolutionary model for AI",
+    "projectStatus":"open",
+    "allBidsOfFreelancers":[
+    {
+    "freelancerEmailId":"Nick Jones",
+    "proposedCompletionDate":"10th April 2023",
+    "bidAmount":"$400",
+    "projectAwarded":"false"
+    },
+    {
+    "freelancerEmailId":"Jonny Gaddar",
+    "proposedCompletionDate":"15th April 2023",
+    "bidAmount":"$600",
+    "projectAwarded":"false"
+    },
+    {
+    "freelancerEmailId":"Aprajita",
+    "proposedCompletionDate":"10th April 2023",
+    "bidAmount":"$300",
+    "projectAwarded":"true"
+    },
+    {
+    "freelancerEmailId":"Mick Laurance",
+    "proposedCompletionDate":"19th April 2023",
+    "bidAmount":"$700",
+    "projectAwarded":"false"
+    }
+    ],
+    "projectCompletionDate":"14th April 2023",
+    "projectPreference":"onsite",
+    "projectLocation":"Washington",
+    "projectDescription":"The objective of this project is to design and develop an evolutionary model for artificial intelligence (AI) that can continuously learn and evolve over time to adapt to changing environments and new data inputs.The evolutionary model for AI will be based on genetic algorithms, which are a subset of evolutionary algorithms that mimic the process of natural selection to optimize solutions. The model will use a fitness function to evaluate the performance of AI models and select the best ones for reproduction.The project will begin with the development of a baseline AI model that can solve a specific task. The model will then be subjected to random mutations and variations in its parameters to create a diverse population of AI models. The fitness function will then evaluate the performance of each model, and the best-performing ones will be selected for reproduction.",
+    "bidSpecsProvidedByProjectOwners":[
+    {
+    "maximumBudget":"$700",
+    "minimumBudget":"$100",
+    "bidLastDate":"20th April 2023"
+    }
+    ],
+    "skillsSetList":["NodeJS","ReactJS","SQL","IBM cloud"]
+    },
+    {
+        "projectId":"900066778",
+        "projectOwnerEmailId":"lku@gmail.com",
+        "projectName":"Developer's Space",
+        "projectStatus":"open",
+        "allBidsOfFreelancers":[
+        {
+        "freelancerEmailId":"Nick Jones",
+        "proposedCompletionDate":"10th April 2023",
+        "bidAmount":"$400",
+        "projectAwarded":"false"
+        },
+        {
+        "freelancerEmailId":"Jonny Gaddar",
+        "proposedCompletionDate":"15th April 2023",
+        "bidAmount":"$600",
+        "projectAwarded":"false"
+        },
+        {
+        "freelancerEmailId":"Aprajita",
+        "proposedCompletionDate":"10th April 2023",
+        "bidAmount":"$300",
+        "projectAwarded":"true"
+        },
+        {
+        "freelancerEmailId":"Mick Laurance",
+        "proposedCompletionDate":"19th April 2023",
+        "bidAmount":"$700",
+        "projectAwarded":"false"
+        }
+        ],
+        "projectCompletionDate":"14th April 2023",
+        "projectPreference":"onsite",
+        "projectLocation":"Washington",
+        "projectDescription":"Developer's Space is a web-based platform that aims to bring together developers from around the world to collaborate, learn, and share their knowledge and expertise. The platform provides a range of tools and resources that enable developers to connect with each other, work on projects, and grow their skills.The platform features a robust social networking system that allows developers to create and join groups based on their interests and expertise. Within these groups, developers can share resources, ask questions, and collaborate on projects. The platform also offers a project management system that enables developers to work on projects together, track progress, and share updates.Developer's Space also includes a learning management system that provides a range of courses and tutorials on various programming languages, frameworks, and tools. These courses are created by industry experts and are designed to help developers improve their skills and stay up-to-date with the latest technologies.",
+        "bidSpecsProvidedByProjectOwners":[
+        {
+        "maximumBudget":"$700",
+        "minimumBudget":"$100",
+        "bidLastDate":"20th April 2023"
+        }
+        ],
+        "skillsSetList":["HTML","CSS","Bootstrap"]
+    }
+    ]
+    }
+]
+    
